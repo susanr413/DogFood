@@ -1,0 +1,22 @@
+{
+  "name": "dogfoodorder",
+  "version": "1.0.0",
+  "description": "Calculates next month's dog food order",
+  "main": "dogfood.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/susanr413/DogFoodOrder.git"
+  },
+  "author": "Susan Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susanr413/DogFoodOrder/issues"
+  },
+  "homepage": "https://github.com/susanr413/DogFoodOrder#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
